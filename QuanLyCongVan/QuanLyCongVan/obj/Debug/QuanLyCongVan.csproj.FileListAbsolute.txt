@@ -1,0 +1,7 @@
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csprojAssemblyReference.cache
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.frmLogin.resources
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.frmMain.resources
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Properties.Resources.resources
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.Resources.resources
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.csproj.GenerateResource.cache
+D:\CUONG\Nam II HKII\PTTKHT\DOAN\QuanLyCongVan\QuanLyCongVan\obj\Debug\QuanLyCongVan.exe.licenses
